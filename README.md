@@ -5,7 +5,7 @@
 ### MPB-PPI
 MPB-PPI training data from the STRING database：https://cn.string-db.org/<br>
 You can choose organism to build your own data<br>
-The build format can be found at [MP-BERT-Fine-Tune](https://github.com/BRITian/MP-BERT/tree/main/Finetune_code) and our article
+The data format can be found at [MP-BERT-Fine-Tune](https://github.com/BRITian/MP-BERT/tree/main/Finetune_code) and our article
 
 ## Train and usage
 MPB-PPI and MPB-PPISP training and use based on [MP-BERT](https://github.com/BRITian/MP-BERT/)
