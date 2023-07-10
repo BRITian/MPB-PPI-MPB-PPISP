@@ -1,6 +1,7 @@
 # MPB-PPI-MPB-PPISP
 
 ## Dataset
+You can download our dataset from:
 ![image](https://github.com/BRITian/MPB-PPI-MPB-PPISP/assets/6353453/ae05f7d7-af78-471e-9c84-d8b0f350d271)
 
 ### MPB-PPI
