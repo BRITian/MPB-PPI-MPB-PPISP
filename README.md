@@ -2,7 +2,7 @@
 
 ## Dataset
 You can download our dataset from:
-![DOI](https://github.com/BRITian/MPB-PPI-MPB-PPISP/assets/6353453/ae05f7d7-af78-471e-9c84-d8b0f350d271)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7858135.svg)](https://doi.org/10.5281/zenodo.7858135)
 
 The trained model is stored in:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8131531.svg)](https://doi.org/10.5281/zenodo.8131531)
